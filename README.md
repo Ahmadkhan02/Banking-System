@@ -1,6 +1,10 @@
 # Banking-System
 A simple banking system with database was developed in this project. Applied Luhn algorithm, learned SQL basics and used sqlite3 module to complete this project.
 
+Examples::
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1. Create an account
 2. Log into account
 0. Exit
